@@ -1,2 +1,1 @@
-# alx-pre_course
-alx software engineering repo
+My first readme
